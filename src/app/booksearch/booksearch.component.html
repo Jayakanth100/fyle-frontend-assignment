@@ -1,0 +1,11 @@
+<div>
+      <app-subject class="subject"></app-subject>
+<body>
+      <input type="text" [(ngModel)]="inp" >
+      <button type="submit" (click)="searchByBook()">SEARCH BY BOOK</button>
+      <button type="submit" (click)="searchByAuthor()">SEARCH BY AUTHOR</button>
+      <app-pagination [link1]="get_link" [chooseFun] = "chooseFun"></app-pagination>
+</body>
+</div>
+
+
