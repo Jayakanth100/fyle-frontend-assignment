@@ -13,7 +13,6 @@ import { HeaderComponent } from './header/header.component';
 import { SubjectComponent } from './subject/subject.component';
 import { BooksearchComponent } from './booksearch/booksearch.component';
 import { PaginationComponent } from './pagination/pagination.component';
-import { TrendTableComponent } from './trend-table/trend-table.component'
 
 @NgModule({
   declarations: [
@@ -24,7 +23,6 @@ import { TrendTableComponent } from './trend-table/trend-table.component'
     SubjectComponent,
     BooksearchComponent,
     PaginationComponent,
-    TrendTableComponent
   ],
   imports: [
     BrowserModule,
