@@ -1,6 +1,3 @@
-# frontEnd-assignment-internship
-Building Book Library System Using Angular
-
 # fontEnd-Internship-assignment
 Building Book Library System Using Angular
 # Books Library using the Open Library Subjects and Search APIs
